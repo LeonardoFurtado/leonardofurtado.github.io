@@ -6,6 +6,8 @@ title: Example content
 **Howdy!** This is an example blog post that shows several types of HTML content supported in this theme.
 {: .message }
 
+![Alt ou título da imagem](https://ibb.co/hyn9Zc9)
+
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
@@ -116,6 +118,7 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo r
 ### Images
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+
 
 ![placeholder](http://placehold.it/800x400 "Large example image")
 ![placeholder](http://placehold.it/400x200 "Medium example image")
