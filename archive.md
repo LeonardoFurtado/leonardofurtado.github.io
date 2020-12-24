@@ -17,7 +17,8 @@ challenges  they  face  when  dealing  with  bot  development.   To  shed  an  i
 light on this direction,we conducted a survey with 43 Github users who have
 been involved (showingtheir interest or actively contributing to) in bot software
 projects.
-access it [here](https://sol.sbc.org.br/index.php/washes/article/view/6405).
+
+Access it [here](https://sol.sbc.org.br/index.php/washes/article/view/6405).
 
 
 <!--{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
