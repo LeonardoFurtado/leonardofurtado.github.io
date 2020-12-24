@@ -7,6 +7,8 @@ title: Archive
 
 Here you can find my publications.
 
+-----
+
 ## How Do Bot Developers Perceive Bot Development? A Survey
 Software bots are becoming more and more popular,  this is due to
 the fact that they are a tool that can be used in different contexts.  With this,
@@ -19,6 +21,10 @@ been involved (showingtheir interest or actively contributing to) in bot softwar
 projects.
 
 Access it [here](https://sol.sbc.org.br/index.php/washes/article/view/6405).
+
+-----
+
+
 
 
 <!--{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
