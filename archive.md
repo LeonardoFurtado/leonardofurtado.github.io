@@ -5,7 +5,7 @@ title: Archive
 
 # Publications
 
-Here you can find my publications.
+Here you can see a little bit about what I work on.
 
 ## Continuous Integration Theater
 
