@@ -3,7 +3,8 @@ layout: page
 title: About
 ---
 
-(This page is a working in progress)
+## (This page is a working in progress)
+
 Leonardo Furtado is a Computer Science student working with Software Engineering research at Federal University of Pará. 
 
 ## Social Networks
