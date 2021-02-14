@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 
-## (This page is a working in progress)
-
-Leonardo Furtado is a Computer Science student working with Software Engineering research at Federal University of Pará. 
+Leonardo Furtado had interests in computers since childhood, having contact with programming only when he entered college, in 2016. He works as a backend developer using python-related technologies and maintains a continuous study of software engineering.
 
 ## Social Networks
 
