@@ -3,7 +3,7 @@ layout: default
 title: Archive
 ---
 
-# Publications
+# Publicationss
 
 Here you can see a little bit about what I work on.
 
