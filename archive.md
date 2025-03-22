@@ -13,7 +13,7 @@ Here you can see a little bit about what I used to work on.
 
 In this article we studied whether developers’ locations relate to the outcome of a pull request (PR). Our results suggest that developers from countries with low human development indexes perform a small fraction of the overall PRs and are the ones that face rejection the most.
 
-Access it [here](https://ieeexplore.ieee.org/abstract/document/8870152).
+Access it [here](https://github.com/LeonardoFurtado/leonardofurtado.github.io/blob/master/p1.pdf).
 
 -----
 
